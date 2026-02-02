@@ -25,6 +25,7 @@
     <Unit Name="Hannah Urbahnski" Phone1="4621" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Jim Cook" Phone1="4635" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Connor Grant" Phone1="4632" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Lexi Duff" Phone1="4633" Phone2="" Phone3="" default_photo="Resource:"/>
   </Menu>
   <Menu Name="SERVER ROOM">
     <Unit Name="Jacob Johnson" Phone1="4606" Phone2="" Phone3="" default_photo="Resource:"/>
@@ -66,6 +67,7 @@
     <Unit Name="Zane Rayburn" Phone1="4683" Phone2="" Phone3="" default_photo="Resource:"/>
   </Menu>
 </YealinkIPPhoneBook>
+
 
 
 
