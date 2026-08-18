@@ -36,7 +36,7 @@
   <Menu Name="UTILITY DEPT">
     <Unit Name="Etta Moore" Phone1="4600" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Jenny Altherr" Phone1="4603" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Utility Office Vacant" Phone1="4601" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Ashley King" Phone1="4601" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Jennifer Everitt" Phone1="4607" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Front Counter" Phone1="4602" Phone2="" Phone3="" default_photo="Resource:"/>
   </Menu>
